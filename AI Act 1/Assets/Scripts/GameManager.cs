@@ -88,8 +88,14 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        if (!StopTimer) { Timer += Time.deltaTime; }
-        else { StopTimer = true; }
+        if (!StopTimer) 
+        { 
+            Timer += Time.deltaTime; 
+        }
+        else 
+        { 
+            StopTimer = true; 
+        }
 
         TimerText.text = Timer.ToString();
         foreach (var pair in blueVariants)

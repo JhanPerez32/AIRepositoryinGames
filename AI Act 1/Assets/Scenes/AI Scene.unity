@@ -209,6 +209,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -415,6 +420,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -592,6 +602,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -726,6 +741,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -829,6 +849,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -926,6 +951,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -1161,6 +1191,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -1800,6 +1835,11 @@ PrefabInstance:
     - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
         type: 3}
       propertyPath: avoidancePriority
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -2753,6 +2793,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
       propertyPath: Destination
@@ -2851,6 +2896,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -3015,6 +3065,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -3720,6 +3775,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3809,6 +3869,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
@@ -4212,6 +4277,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
       propertyPath: Destination
@@ -4341,6 +4411,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -4537,6 +4612,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4570,6 +4650,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -5268,6 +5353,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5442,6 +5532,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
@@ -5723,6 +5818,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5958,6 +6058,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
       propertyPath: m_Name
@@ -6006,6 +6111,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
@@ -6104,6 +6214,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -6269,6 +6384,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
       propertyPath: m_Name
@@ -6409,6 +6529,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6442,6 +6567,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -8109,6 +8239,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -8736,6 +8871,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
       propertyPath: Destination
@@ -8839,6 +8979,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
@@ -8973,6 +9118,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
@@ -9415,6 +9565,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
       propertyPath: m_Name
@@ -9523,6 +9678,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -9663,6 +9823,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -10073,6 +10238,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
       propertyPath: Destination
@@ -10471,6 +10641,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -11000,6 +11175,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11467,6 +11647,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
       propertyPath: Destination
@@ -11671,6 +11856,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -12566,6 +12756,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12685,6 +12880,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -13260,6 +13460,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -13434,6 +13639,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -13702,6 +13912,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -13865,6 +14080,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13963,6 +14183,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -14208,6 +14433,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -14811,6 +15041,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
       propertyPath: Destination
@@ -14974,6 +15209,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -16219,6 +16459,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -16321,6 +16566,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
@@ -16516,6 +16766,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
       propertyPath: m_Name
@@ -16654,6 +16909,11 @@ PrefabInstance:
     - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
         type: 3}
       propertyPath: avoidancePriority
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -16972,6 +17232,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
@@ -17522,6 +17787,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
       propertyPath: Destination
@@ -17716,6 +17986,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -17960,6 +18235,11 @@ PrefabInstance:
     - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
         type: 3}
       propertyPath: avoidancePriority
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -18290,6 +18570,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18388,6 +18673,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -18498,6 +18788,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
@@ -19101,6 +19396,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
       propertyPath: m_Name
@@ -19208,6 +19508,11 @@ PrefabInstance:
     - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
         type: 3}
       propertyPath: avoidancePriority
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -19375,6 +19680,11 @@ PrefabInstance:
     - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
         type: 3}
       propertyPath: avoidancePriority
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -19855,6 +20165,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -20018,6 +20333,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20087,6 +20407,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
@@ -20416,6 +20741,11 @@ PrefabInstance:
     - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
         type: 3}
       propertyPath: avoidancePriority
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -20901,6 +21231,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -21086,6 +21421,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 2753118788575675227, guid: b2856899fc1e36d46a7e8bed77d0107f,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6327072912734721997, guid: b2856899fc1e36d46a7e8bed77d0107f,
         type: 3}
       propertyPath: AgentSpeed
@@ -21248,6 +21588,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -21593,6 +21938,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
       propertyPath: Destination
@@ -21691,6 +22041,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -21855,6 +22210,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -22510,6 +22870,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
       propertyPath: m_Name
@@ -23010,6 +23375,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23170,6 +23540,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
@@ -23809,6 +24184,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 75
       objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
       propertyPath: Destination
@@ -24109,6 +24489,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24270,6 +24655,11 @@ PrefabInstance:
       propertyPath: avoidancePriority
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 5913306718579928275, guid: 60315516c70695342b52a68ef954260b,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7339721375664673949, guid: 60315516c70695342b52a68ef954260b,
         type: 3}
       propertyPath: m_Name
@@ -24313,6 +24703,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562661378891946596, guid: a92480a0a72a18240b67a669ffb248a4,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5938888136862650098, guid: a92480a0a72a18240b67a669ffb248a4,
         type: 3}
@@ -24538,6 +24933,11 @@ PrefabInstance:
     - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
         type: 3}
       propertyPath: avoidancePriority
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976735622089850596, guid: 627c0ab983d8f0e4d978d675cc3867bc,
+        type: 3}
+      propertyPath: m_StoppingDistance
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
