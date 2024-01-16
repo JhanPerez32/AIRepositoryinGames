@@ -43,6 +43,7 @@ public class GameManager : MonoBehaviour
     public void ResetObjectsToInitialPositions()
     {
         Timer = 0.0f;
+        //StopTimer = false;
         foreach (Transform objTransform in initialPositions.Keys)
         {
             objTransform.position = initialPositions[objTransform];
@@ -151,13 +152,18 @@ public class GameManager : MonoBehaviour
         {
             // Check if the agent is actively pathfinding
             if (agent.pathPending)
+            {
                 continue;
+            }
 
             // If the agent still has a path to follow, it hasn't reached the destination
-            if (!agent.hasPath || agent.remainingDistance > agent.stoppingDistance)
+            if (agent.hasPath)
             {
                 allReached = false;
-                break;
+                if (agent.remainingDistance >= agent.stoppingDistance)
+                {
+                    break;
+                }
             }
         }
 
