@@ -43,7 +43,7 @@ public class GameManager : MonoBehaviour
     public void ResetObjectsToInitialPositions()
     {
         Timer = 0.0f;
-        //StopTimer = false;
+        StopTimer = false;
         foreach (Transform objTransform in initialPositions.Keys)
         {
             objTransform.position = initialPositions[objTransform];
