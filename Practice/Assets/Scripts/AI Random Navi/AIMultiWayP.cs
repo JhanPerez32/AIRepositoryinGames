@@ -19,7 +19,7 @@ public class AIMultiWayP : MonoBehaviour
         {
             waypoints.Add(transform.gameObject.transform);
         }
-        MoveToRandomPoints();
+        //MoveToRandomPoints();
     }
 
     private void MoveToRandomPoints()
@@ -44,7 +44,7 @@ public class AIMultiWayP : MonoBehaviour
         return Random.Range(0, waypoints.Count);
     }
 
-    void Update()
+    /*void Update()
     {
         if (!agent.pathPending)
         {
@@ -57,5 +57,5 @@ public class AIMultiWayP : MonoBehaviour
                 }
             }
         }
-    }
+    }*/
 }
