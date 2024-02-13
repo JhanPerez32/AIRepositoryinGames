@@ -28,7 +28,8 @@ public class LuEnemy : MonoBehaviour
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
-        playerPosition = GameObject.FindWithTag("Player").transform;
+        playerPosition = GameObject.FindGameObjectWithTag("Player").transform;
+
         foreach (Transform tr in Waypoints.GetComponentsInChildren<Transform>())
         {
             targetWaypoint.Add(tr.gameObject.transform);
@@ -38,7 +39,6 @@ public class LuEnemy : MonoBehaviour
     void Update()
     {
         float distanceToPlayer = Vector3.Distance(transform.position, playerPosition.position);
-        
     }
 
     public void MoveToRandomWaypoint()
@@ -52,7 +52,6 @@ public class LuEnemy : MonoBehaviour
 
         if (newWaypointIndex != wayPointNumber)
         {
-
             wayPointNumber = newWaypointIndex;
 
             agent.SetDestination(targetWaypoint[wayPointNumber].position);

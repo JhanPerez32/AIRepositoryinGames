@@ -690,12 +690,12 @@ PrefabInstance:
     - target: {fileID: 2125221076941768781, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
       propertyPath: followDuration
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2125221076941768781, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
       propertyPath: distanceToPlayer
-      value: 5
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2125221076941768781, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
@@ -721,6 +721,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 3963392702789651592, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3963392702789651592, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
@@ -1056,12 +1061,12 @@ PrefabInstance:
     - target: {fileID: 2125221076941768781, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
       propertyPath: followDuration
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2125221076941768781, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
       propertyPath: distanceToPlayer
-      value: 5
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2125221076941768781, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
@@ -1087,6 +1092,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 3963392702789651592, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3963392702789651592, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
@@ -1186,12 +1196,12 @@ PrefabInstance:
     - target: {fileID: 2125221076941768781, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
       propertyPath: followDuration
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2125221076941768781, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
       propertyPath: distanceToPlayer
-      value: 5
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2125221076941768781, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
@@ -1217,6 +1227,11 @@ PrefabInstance:
         type: 3}
       propertyPath: avoidancePriority
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 3963392702789651592, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3963392702789651592, guid: 5e20914d2fd7a194fbe94df1e8fd34d0,
         type: 3}
